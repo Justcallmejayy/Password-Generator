@@ -10,7 +10,7 @@ This project solves the difficulty of creating strong passwords. Strong password
 
 ## Installation
 
-Launch the website at 
+Launch the website at https://justcallmejayy.github.io/Password-Generator/
 
 ## Usage
 To use the password generator you want to start by pressing the "Generate Password" button. ![alt text](assets/img/password-generator-step1.PNG)
